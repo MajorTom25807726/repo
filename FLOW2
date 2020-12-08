@@ -1,0 +1,1 @@
+[{"id":"7ad8120d.09723c","type":"http request","z":"febae003.ee278","name":"","method":"GET","ret":"txt","paytoqs":false,"url":"http://api.mediatek.com/mcs/v2/devices/D8VILZ3u/datachannels/hum/datapoints.csv","tls":"","persist":false,"proxy":"","authType":"","x":440,"y":200,"wires":[["cd82c95f.001898","fc76515a.247cf"]]}]
